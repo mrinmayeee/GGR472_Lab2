@@ -1,7 +1,13 @@
 .map { 
     position: absolute; 
-    top: 0; 
+    top: 20%; 
     bottom: 0; 
     width: 100%; 
 }
-
+body {background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20201026/pngtree-futuristic-shape-abstract-background-chemistry-technology-concept-for-website-image_438818.jpg);}
+h1 {text-align: center;}
+h4 {text-align: center;}
+h1 {font-family: 'Gill Sans MT', sans-serif;}
+h4 {font-family: 'Gill Sans MT', sans-serif;}
+h1 {background-color:rgb(207, 248, 234);}
+h4 {background-color: rgb(251, 234, 162);}
